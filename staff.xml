@@ -1,0 +1,14 @@
+<company>
+    <staff id="1001">
+        <firstname>yong</firstname>
+        <lastname>mook kim</lastname>
+        <nickname>mkyong</nickname>
+        <salary currency="USD">100000</salary>
+    </staff>
+    <staff id="2002">
+        <firstname>fong</firstname>
+        <lastname>foong kim</lastname>
+        <nickname>fiong</nickname>
+        <salary currency="USD">200000</salary>
+    </staff>
+</company>

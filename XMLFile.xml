@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATree>
+    <DO className="MSCerNE" dn="NE=78">
+        <attr name="dn">NE=7</attr>
+        <attr name="className">MSCerNE</attr>
+        <attr name="Dayfo">NO_/</attr>
+        <attr name="IP">10.1.36</attr>
+        <attr name="InId">MSOFTX320SPH226</attr>
+    </DO>
+    <DO className="MSCServpment" dn="NE=76ipment=only">
+        <attr name="dn">NE=768,MSCSEquient=only</attr>
+        <attr name="className">MSCSeripment</attr>
+
+        <DO className="MSCSeIMSC" dn="NE=LL_NRI">
+            <attr name="dn">NE=RNULL_NRI</attr>
+            <attr name="className">MSCSeIMSC</attr>
+
+        </DO>
+        <DO className="MSCIMSC" dn="NE=7HC_NRI_1">
+            <attr name="dn">NE=768,NRI_NRI_1</attr>
+            <attr name="className">MSCIMSC</attr>
+
+        </DO>
+    </DO>
+
+</DATree>
